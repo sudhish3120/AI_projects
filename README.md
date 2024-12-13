@@ -1,4 +1,4 @@
-# AI_projects
+# CS 486: Introduction to AI
 
 ### Neural Network
 Implemented a feedforward neural network from scratch that predicts the quality of wine based on intrinsic factors (acidity, pH, sugar content, etc.) using NumPy and Pandas. The program takes as input the number of layers, size of each layer and activation functions (from a given list). It performs k-fold cross validation for k=5 using a given dataset and produces a plot with x-axis as the epoch number and y-axis as the average training loss across all experiments for the given epoch.
